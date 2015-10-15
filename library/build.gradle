@@ -11,7 +11,7 @@ def libVersionName = "1.0.0.0"
 version = libVersionName
 def siteUrl = 'https://github.com/shareme/GWSCacheFragment'
 def gitUrl = 'https://github.com/shareme/GWSCacheFragment.git'
-group = "com.github.shareme.GWSCacheFragment"
+group = "com.github.shareme"
 
 
 
