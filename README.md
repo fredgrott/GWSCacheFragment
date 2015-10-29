@@ -21,7 +21,7 @@ Than in the module buildscript:
 
 
 ```groovy
-compile 'com.github.shareme:GWSCacheFragment:1.0.0.0@aar'
+compile 'com.github.shareme:GWSCacheFragment:{latest-release-number}@aar'
 ```
 
 
